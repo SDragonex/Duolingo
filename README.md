@@ -20,7 +20,7 @@ document.cookie
   .split('=')[1]
  ```
   
-  5. Go to your forked repository
+  5. Go to your forked repositorym
   6. Go to Settings > Secrets and Variables > Actions . And click the button `New Repository secret`
   7. For the secret name use `DUOLINGO_JWT` for the secret value use the copied value from step 4.
   8. Go the your forked repository and go the Actions tab and press the button `I understand my workflows, go ahead and enable them`
